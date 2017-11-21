@@ -6,7 +6,7 @@ public class App {
 		return x * y;
 	}
 	public float subtrai(float x, float y) {
-		return x - y;
+		return x + y;
 	}
 	public float divide(float x, float y) {
 		return x / y;
