@@ -1,5 +1,7 @@
 package com.calculadora;
 
+/*alteração para teste de implantação*/
+
 public class App {
 	
 	public float soma(float x, float y) {
