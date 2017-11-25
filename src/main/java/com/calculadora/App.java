@@ -5,7 +5,7 @@ package com.calculadora;
 public class App {
 	
 	public float soma(float x, float y) {
-		return x + y;
+		return x - y;
 	}
 	public float subtrai(float x, float y) {
 		return x - y;
