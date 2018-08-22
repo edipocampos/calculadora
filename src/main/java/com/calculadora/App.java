@@ -14,7 +14,6 @@ public class App {
 		return x / y;
 	}
 	public float multiplica(float x, float y) {
-		return x * y;
-	}	
-
+		return x / y;
+	}
 }
